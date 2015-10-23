@@ -1,0 +1,47 @@
+.pc-panel-main {
+
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    /*padding: 80px;*/
+    /*padding: 15px;*/
+
+}
+
+.pc-panel {
+    float: left;
+    width: 350px;
+    height: 90px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    border: 2px solid #7dc6dd;
+    border-radius: 5px;
+}
+
+.pc-panel-title {
+    font-size: 10pt;
+    font-weight: bolder;
+    /*color: red;*/
+
+    /*text-transform: uppercase;*/
+}
+
+.pc-body-panel {
+    margin-top: 15px;
+    border-top: 1px solid #CCC;
+    padding-top: 13px;
+
+}
+
+.pc-panel-description {
+
+    font-size: 9.5pt;
+    font-style: italic;
+    color: #989898;
+}
+p {
+    /*margin: 0 0 20px;*/
+    text-align: center;
+}
+
